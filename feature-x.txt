@@ -1,5 +1,9 @@
 Initial content for Feature-X
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 update bob feature-x
 >>>>>>> origin/feature-x-bob
+=======
+Charlie's update to Feature-X
+>>>>>>> origin/feature-x-charlie
