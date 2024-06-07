@@ -1,1 +1,5 @@
 Initial content for Feature-X
+<<<<<<< HEAD
+=======
+update bob feature-x
+>>>>>>> origin/feature-x-bob
